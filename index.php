@@ -30,6 +30,9 @@
   <!--education start-->
   <section class="calendar">
     <div class="container">
+      <div class="heading">
+        <h2>Calendar</h2>
+      </div>
       <div id="calendar"></div>
     </div>
   </section>
