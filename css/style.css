@@ -8,9 +8,13 @@
 }
 
 
+.leadership .heading h2, .gen_content h2 {
+	color: #D81C29;
+}
 
-
-
+.gen_content p{
+	color: black;
+}
 
 
 

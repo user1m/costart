@@ -3,7 +3,7 @@
   <section class="gen_content">
     <div class="container">
       <div class="heading">
-        <h2>Get Involved</h2>
+        <h1>Get Involved</h1>
       </div>
 
       <div class="row">

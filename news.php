@@ -23,7 +23,7 @@
           <div class="col-lg-10">
             <h2>Shark Tank</h2>
             <p>In 2014 CoStart brought the casters of ABC’s Shark Tank to OSU in order to get OSU startups and companies big-time exposure.</p>
-            <p><a class="btn btn-default" href="http://thelantern.com/2014/05/aspiring-osu-entrepreneurs-vy-success-shark-tank/" role="button">Read More &raquo;</a></p>
+            <p><a class="btn btn-default" href="http://thelantern.com/2014/05/aspiring-osu-entrepreneurs-vy-success-shark-tank/" target="_blank" role="button">Read More &raquo;</a></p>
           </div>
         </div>
       </div>

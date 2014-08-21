@@ -29,8 +29,8 @@
         <div class="col-lg-4">
           <img src="/images/claudius.jpg" alt="Claudius Mbemba" class="img-rounded">
           <div>
-            <a href="https://twitter.com/CoStartNow" target="blank"><i class="fa fa-twitter"></i></a>
-            <a href="https://www.facebook.com/CoStartNow" target="blank"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com/CThaBeast_1" target="blank"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.facebook.com/mbembac" target="blank"><i class="fa fa-facebook"></i></a>
           </div>
         </div>
         <div class="col-lg-8">
@@ -119,7 +119,7 @@
     <div class="col-lg-8">
       <h2> ? </h2>
       <p>VP of Communications</p>
-      <p>Lorem ipsum Deserunt deserunt amet fugiat dolore dolore est dolore reprehenderit dolor Excepteur in laborum cillum occaecat Ut. Lorem ipsum Ea officia minim ut eiusmod amet tempor ea dolore et in pariatur consequat in ex ullamco nulla deserunt ex cupidatat sint aute enim quis commodo sunt enim veniam ex aliquip ex sint in sunt in quis quis labore Excepteur in nostrud dolore dolore sed mollit minim ut aute quis veniam laboris nostrud sit incididunt exercitation consectetur ullamco incididunt dolore nisi in culpa velit id in laborum irure consequat dolore adipisicing ea velit ut laborum eu in enim pariatur.</p>
+      <p>Lorem ipsum Deserunt deserunt amet fugiat dolore dolore est dolore reprehenderit dolor Excepteur in laborum cillum occaecat Ut. Lorem ipsum Ea officia minim ut eiusmod amet tempor ea dolore et in pariatur consequat in ex ullamco nulla deserunt ex cupidatat sint aute enim quis commodo sunt enim veniam ex aliquip ex sint in sunt in quis quis labore Excepteur in nostrud dolore dolore sed mollit minim ut aute quis veniam laboris nostrud sit incididunt exercitation consectetur ullamco incididunt dolore nisi in culpa velit id in laborum irure consequat dolore adipisicing ea velit ut laborum eu in enim pariatur. &nbsp;&nbsp;&nbsp;&nbsp;<a class="btn btn-default" href="#" role="button">Apply &raquo;</a></p>
     </div>
     <div class="col-lg-4">
       <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" alt="..." class="img-rounded">
@@ -144,7 +144,7 @@
     <div class="col-lg-8">
       <h2> ? </h2>
       <p>Events Coordinator</p>
-      <p>Lorem ipsum Deserunt deserunt amet fugiat dolore dolore est dolore reprehenderit dolor Excepteur in laborum cillum occaecat Ut. Lorem ipsum Ea officia minim ut eiusmod amet tempor ea dolore et in pariatur consequat in ex ullamco nulla deserunt ex cupidatat sint aute enim quis commodo sunt enim veniam ex aliquip ex sint in sunt in quis quis labore Excepteur in nostrud dolore dolore sed mollit minim ut aute quis veniam laboris nostrud sit incididunt exercitation consectetur ullamco incididunt dolore nisi in culpa velit id in laborum irure consequat dolore adipisicing ea velit ut laborum eu in enim pariatur.</p>
+      <p>Lorem ipsum Deserunt deserunt amet fugiat dolore dolore est dolore reprehenderit dolor Excepteur in laborum cillum occaecat Ut. Lorem ipsum Ea officia minim ut eiusmod amet tempor ea dolore et in pariatur consequat in ex ullamco nulla deserunt ex cupidatat sint aute enim quis commodo sunt enim veniam ex aliquip ex sint in sunt in quis quis labore Excepteur in nostrud dolore dolore sed mollit minim ut aute quis veniam laboris nostrud sit incididunt exercitation consectetur ullamco incididunt dolore nisi in culpa velit id in laborum irure consequat dolore adipisicing ea velit ut laborum eu in enim pariatur. &nbsp;&nbsp;&nbsp;&nbsp;<a class="btn btn-default" href="#" role="button">Apply &raquo;</a></p>
     </div>
   </div>
 </div>
@@ -156,7 +156,7 @@
     <div class="col-lg-8">
       <h2> ? </h2>
       <p>Exec Assistant</p>
-      <p>Lorem ipsum Deserunt deserunt amet fugiat dolore dolore est dolore reprehenderit dolor Excepteur in laborum cillum occaecat Ut. Lorem ipsum Ea officia minim ut eiusmod amet tempor ea dolore et in pariatur consequat in ex ullamco nulla deserunt ex cupidatat sint aute enim quis commodo sunt enim veniam ex aliquip ex sint in sunt in quis quis labore Excepteur in nostrud dolore dolore sed mollit minim ut aute quis veniam laboris nostrud sit incididunt exercitation consectetur ullamco incididunt dolore nisi in culpa velit id in laborum irure consequat dolore adipisicing ea velit ut laborum eu in enim pariatur.</p>
+      <p>Lorem ipsum Deserunt deserunt amet fugiat dolore dolore est dolore reprehenderit dolor Excepteur in laborum cillum occaecat Ut. Lorem ipsum Ea officia minim ut eiusmod amet tempor ea dolore et in pariatur consequat in ex ullamco nulla deserunt ex cupidatat sint aute enim quis commodo sunt enim veniam ex aliquip ex sint in sunt in quis quis labore Excepteur in nostrud dolore dolore sed mollit minim ut aute quis veniam laboris nostrud sit incididunt exercitation consectetur ullamco incididunt dolore nisi in culpa velit id in laborum irure consequat dolore adipisicing ea velit ut laborum eu in enim pariatur. &nbsp;&nbsp;&nbsp;&nbsp;<a class="btn btn-default" href="#" role="button">Apply &raquo;</a></p>
     </div>
     <div class="col-lg-4">
       <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" alt="..." class="img-rounded">

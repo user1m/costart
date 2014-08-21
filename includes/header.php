@@ -56,7 +56,7 @@
                             <li class=""><img src="images/logo.png"></li>
                             <li class="menuItem active"><a href="index.php">Home</a></li>
                             <li class="menuItem"><a href="index.php#calendar">Calendar</a></li>
-                            <li class="menuItem"><a href="news.php#news">News</a></li>
+                            <li class="menuItem"><a href="news.php">News</a></li>
                             <li class="menuItem"><a href="join.php">Get Involved</a></li>
                             <li class="menuItem"><a href="about.php">About Us</a></li>
                             <li class="menuItem"><a href="#contact">Contact</a></li>
