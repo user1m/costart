@@ -9,7 +9,8 @@
     $('#calendar').fullCalendar({
 
       // US Holidays
-      events: 'http://www.google.com/calendar/feeds/usa__en%40holiday.calendar.google.com/public/basic',
+      // events: "http://www.google.com/calendar/feeds/usa__en%40holiday.calendar.google.com/public/basic"
+      events: 'https://www.google.com/calendar/feeds/co.start.now%40gmail.com/public/basic',
 
       eventClick: function(event) {
         // opens events in a popup window

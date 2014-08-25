@@ -23,7 +23,7 @@
           <h2>Leadership</h2>
           <img src="/images/leadership.jpg" alt="leadership" class="img_involved" >
           <p>Entrepreneurship is a lot about leadership. And as such CoStart is always looking for the dreamers, “Go-getters,” the leaders to take this organization to new heights. Are you interested in developing your leadership skills? Have a passion for entrepreneurship? Do you want the contribute to the cultivation of entrepreneurs at The Ohio State University? Then we would love to have you as part of our executive board. Click the button below to learn more about applying for our leadership positions.</p>
-          <p><a class="btn btn-default" href="#" role="button">Apply &raquo;</a></p>
+          <p><a class="btn btn-default" href="https://docs.google.com/forms/d/1utRka54qcKgBQClW1NfQenalYd761KdwP44H5269WNA/viewform" target="_blank" role="button">Apply &raquo;</a></p>
         </div>
       </div>
 
